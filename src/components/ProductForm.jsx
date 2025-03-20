@@ -58,7 +58,7 @@ function ProductForm() {
           <input
             id="email"
             name="email"
-            type="email"
+            type="text"
             placeholder="Enter your email here"
             onChange={() => {}}
           />
